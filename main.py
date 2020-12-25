@@ -25,7 +25,7 @@ def Login(email, password):
         os._exit(0)
 
 if __name__ == "__main__":
-    os.system('cls & title [Discord Token Fetcher] By Dropout ^| Main Menu')
+    os.system('cls & title [Discord Token Fetcher] By Pewa ^| Main Menu')
     email = input('\u001b[31m>\u001b[37m Email\u001b[31m:\u001b[37m ')
     password = input('\u001b[31m>\u001b[37m Password\u001b[31m:\u001b[37m ')
     print()
